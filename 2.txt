@@ -18,3 +18,8 @@ git remote set-url origin https://<token>@github.com/
 git pull --rebase origin master
 git clone <repo url>
 fork (WEB)
+git logs
+git logs -oneline
+git switch branch_name
+git checkout branch_name
+git checkout -B branch_name
